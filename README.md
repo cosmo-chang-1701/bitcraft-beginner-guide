@@ -33,7 +33,7 @@ BitCraft 是一款深度與廣度兼具的社群沙盒遊戲，其核心在於�
 <br>
 您可以透過以下幾種方式來閱讀本指南：
 
-- **線上閱讀 (推薦)**：前往我們發布的 [GitBook 網站](https://example.com) 進行最舒適的線上閱讀。 _(請替換為實際的 GitBook 連結)_
+- **線上閱讀 (推薦)**：前往我們發布的 [GitBook 網站](https://semantic-cosmos.gitbook.io/bitcraft-beginners-adventure-guide/) 進行最舒適的線上閱讀。
 - **本地預覽**：如果您已將此儲存庫複製到本地，可以使用任何支援 Markdown 的編輯器（如 VS Code）來閱讀各個檔案。
 
 **如何貢獻**
@@ -42,7 +42,7 @@ BitCraft 是一款深度與廣度兼具的社群沙盒遊戲，其核心在於�
 <br>
 貢獻流程如下：
 
-1.  `Fork` 此儲存庫。
+1.  `Fork` [此儲存庫](https://github.com/cosmo-chang-1701/bitcraft-beginner-guide)。
 2.  建立一個新的分支 (`git checkout -b feature/YourAmazingFeature`)。
 3.  在您的分支上進行修改。
 4.  提交您的變更 (`git commit -m 'Add some AmazingFeature'`)。
