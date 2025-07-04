@@ -1,28 +1,28 @@
-# 第八章：必備資源與社群中心
+# Chapter 8: Essential Resources and Community Hubs
 
-這份指南的最後，為您提供一些快速參考資料與連結，助您在 BitCraft 的世界中持續學習與成長。
+Finally, here are some quick references and links to help you continue learning and growing in the world of BitCraft.
 
-### 基礎操作快捷鍵
+### Basic Hotkeys
 
-| 動作         | 快捷鍵  | 描述                                     |
-| :----------- | :------ | :--------------------------------------- |
-| 開啟百科全書 | `C`     | 您的遊戲內大腦，用於查詢配方與追蹤資源。 |
-| 開啟市場搜尋 | `J`     | 比較不同市場的價格，尋找商機。           |
-| 開啟地圖     | `M`     | 查看世界地圖與您的目前位置。             |
-| 衝刺         | `Shift` | 快速移動，會消耗體力。預設已改為 Shift。 |
-| 互動         | `E`     | 與 NPC、工作站、資源節點等互動。         |
-| 開啟旅人任務 | `L`     | 查看所有已發現旅人提供的任務與需求。     |
+| Action               | Hotkey  | Description                                                            |
+| :------------------- | :------ | :--------------------------------------------------------------------- |
+| Open Compendium      | `C`     | Your in-game brain for looking up recipes and tracking resources.      |
+| Open Market Search   | `J`     | Compare prices across different markets to find trading opportunities. |
+| Open Map             | `M`     | View the world map and your current location.                          |
+| Sprint               | `Shift` | Move quickly, consumes stamina. Default has been changed to Shift.     |
+| Interact             | `E`     | Interact with NPCs, workstations, resource nodes, etc.                 |
+| Open Traveler Quests | `L`     | View quests and demands from all discovered Travelers.                 |
 
-### 社群就是力量
+### Community is Power
 
 {% hint style="info" %}
-**社群的重要性**：BitCraft 是一款極度重視社群的遊戲，您的聲音對遊戲的未來至關重要。在搶先體驗階段，加入官方社群是獲取最新資訊、補丁說明和遊戲攻略的最佳途徑。
+**The Importance of Community**: BitCraft is a game that highly values its community, and your voice is crucial to the game's future. During Early Access, joining the official communities is the best way to get the latest information, patch notes, and game guides.
 {% endhint %}
 
-- **官方網站**: <https://bitcraftonline.com>
-- **官方 Discord**: [https://discord.gg/bitcraft](https://discord.gg/bitcraft)
-- **官方 Wiki**: <https://bitcraft.wiki.gg>
-- **官方 Reddit**: <https://www.reddit.com/r/BitCraftOnline/>
-- **官方 X (Twitter)**: <https://x.com/BitCraftOnline>
+- **Official Website**: <https://bitcraftonline.com>
+- **Official Discord**: [https://discord.gg/bitcraft](https://discord.gg/bitcraft)
+- **Official Wiki**: <https://bitcraft.wiki.gg>
+- **Official Reddit**: <https://www.reddit.com/r/BitCraftOnline/>
+- **Official X (Twitter)**: <https://x.com/BitCraftOnline>
 
-願這份指南能照亮您在星殞之地的冒險之路。記住，您的每一個選擇，每一次創造，都在塑造這個世界的未來。祝您旅途愉快，開拓者。
+May this guide illuminate your path in the lands of Starfell. Remember, every choice you make, every creation, shapes the future of this world. Happy trails, pioneer.

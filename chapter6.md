@@ -1,26 +1,26 @@
-# 第六章：社會的結構：經濟、聚落與帝國
+# Chapter 6: The Social Structure: Economy, Settlements, and Empires
 
-當您掌握了個人生存的技巧後，便可以開始探索 BitCraft 更宏大的社會系統。這些系統將引導您從一個獨立的個體，轉變為龐大社會結構中的一員。
+Once you have mastered the skills of personal survival, you can begin to explore BitCraft's grander social systems. These systems will guide you from being an independent individual to a member of a vast social structure.
 
-### 玩家驅動的經濟體系
+### The Player-Driven Economy
 
-- **旅人 (Travelers)**：這些 NPC 是遊戲早期經濟的關鍵。他們不僅是商人，也是任務發布者。完成他們的需求任務，可以獲得遊戲中的主要貨幣「赫賽幣 (Hex Coins)」以及寶貴的技能經驗。旅人的任務每 4 小時刷新一次，且每個玩家接到的任務都是獨一無二的，這鼓勵了玩家之間的合作與交易。
-- **地區市場 (Marketplace)**：每個聚落（包括初始的廢棄小鎮）都有自己獨立的市場。物品的價格完全由當地的供給與需求決定。
-- **成為商人**：您可以透過「市場搜尋 (Market Search)」介面（快捷鍵 `J`）來查看所有您曾到訪過的市場的買賣訂單。這使得「低買高賣」的套利行為成為可能，是遊戲中一種重要的盈利方式。
+- **Travelers**: These NPCs are key to the early-game economy. They are not just merchants but also quest givers. Fulfilling their demand quests will earn you the main currency, "Hex Coins," and valuable skill experience. Traveler quests refresh every 4 hours, and the quests each player receives are unique, which encourages cooperation and trade among players.
+- **Regional Marketplace**: Each settlement (including the initial ruined towns) has its own independent market. The prices of items are determined entirely by local supply and demand.
+- **Becoming a Merchant**: You can use the "Market Search" interface (hotkey `J`) to view the buy and sell orders of all the markets you have visited. This makes "buy low, sell high" arbitrage possible and is an important way to make a profit in the game.
 
-### 從宣告地到聚落
+### From Claim to Settlement
 
-遊戲的社會系統是一個層層遞進的金字塔，引導玩家從個人生存走向集體願景。
+The game's social system is a tiered pyramid that guides players from individual survival to a collective vision.
 
-1.  **基礎層 (個人)**：專注於個人生存與技能提升。
-2.  **第二層 (宣告地 Claim)**：這是踏入社會的第一步。透過放置「宣告圖騰 (Claim Totem)」，您可以擁有一片屬於自己的土地。此時您的目標從純粹的生存轉變為資源管理，您需要持續為圖騰提供「補給品 (supplies)」以防止其衰敗。如果補給耗盡，您的土地將變為公共區域，任何人都可以取走您的物品。
-3.  **第三層 (聚落 Settlement)**：當您積累了足夠的財富後（5000 赫賽幣與 10 個法典），可以向 NPC 購買「聚落創立令狀 (Writ of Settlement Foundation)」，正式建立一個聚落。此時，您的角色從一個「地主」轉變為「市長」。您的目標不再是個人發展，而是如何吸引其他玩家前來定居。您需要購買旅人的「商業憑證 (Business Vouchers)」，邀請他們進駐您的聚落，從而提供市場、銀行等公共服務。
-4.  **頂層 (帝國 Empire)**：這是社會金字塔的頂端。當多個城市聯合起來，便可以形成帝國。帝國層面的遊戲玩法轉向了戰略與政治。
+1.  **Base Layer (Individual)**: Focus on personal survival and skill improvement.
+2.  **Second Layer (Claim)**: This is the first step into society. By placing a "Claim Totem," you can own a piece of land. At this point, your goal shifts from pure survival to resource management, as you need to continuously provide "supplies" to the totem to prevent it from decaying. If the supplies run out, your land will become public, and anyone can take your items.
+3.  **Third Layer (Settlement)**: When you have accumulated enough wealth (5000 Hex Coins and 10 Codexes), you can purchase a "Writ of Settlement Foundation" from an NPC to formally establish a settlement. At this point, your role transforms from a "landowner" to a "mayor." Your goal is no longer personal development but how to attract other players to settle. You will need to purchase "Business Vouchers" from Travelers to invite them to set up in your settlement, thereby providing public services like a market and a bank.
+4.  **Top Layer (Empire)**: This is the pinnacle of the social pyramid. When multiple cities unite, they can form an empire. Gameplay at the empire level shifts towards strategy and politics.
 
-### 權力的頂峰：帝國
+### The Peak of Power: Empires
 
 {% hint style="info" %}
-**帝國的榮譽**：帝國之間的衝突核心是**地位與聲望，而非實質的戰力加成**。成為皇帝或加入一個強大的帝國，所獲得的獎勵是裝飾性的，例如華麗的皇冠、獨特的稱號、以及印有帝國徽章的披風。最大的榮譽，莫過於看到自己帝國的旗幟飄揚在世界地圖的廣大疆域之上。
+**The Honor of an Empire**: The core of conflict between empires is **status and prestige, not tangible combat bonuses**. The rewards for becoming an emperor or joining a powerful empire are cosmetic, such as ornate crowns, unique titles, and capes bearing the empire's emblem. The greatest honor is seeing your empire's flag flying over a vast territory on the world map.
 {% endhint %}
 
-帝國衝突的機制圍繞著「瞭望塔 (Watchtowers)」的建設與圍攻，這些都需要消耗一種名為「赫賽膠囊 (Hexite Capsules)」的稀有資源。這是一個需要長期規劃、資源網絡和外交手腕的深度策略遊戲。
+The mechanics of imperial conflict revolve around the construction and siege of "Watchtowers," which require a rare resource called "Hexite Capsules." This is a deep strategy game that requires long-term planning, resource networks, and diplomatic skill.

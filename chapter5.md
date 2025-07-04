@@ -1,27 +1,27 @@
-# 第五章：創造的循環：深入採集、製作與建造
+# Chapter 5: The Cycle of Creation: A Deep Dive into Gathering, Crafting, and Building
 
-這個章節將詳細拆解您在遊戲中會不斷重複的核心循環，幫助您理解並優化您的生產效率。
+This chapter will break down the core loop you will constantly repeat in the game, helping you understand and optimize your production efficiency.
 
-### 採集世界的資源
+### Gathering the World's Resources
 
-世界上的資源以「資源節點」的形式存在，並根據類型（木材、礦石、石頭等）與階級（Tier I 到 X）進行分類。例如，Tier I 的資源包括山毛櫸樹 (Beech Tree)、石灰岩 (Limestone) 和鐵鋰岩礦 (Ferralith Ore)。別忘了，使用百科全書的追蹤功能是找到這些資源最有效率的方法。
+Resources in the world exist as "resource nodes" and are categorized by type (wood, ore, stone, etc.) and tier (Tier I to X). For example, Tier I resources include Beech Trees, Limestone, and Ferralith Ore. Remember, using the Compendium's tracking feature is the most efficient way to find them.
 
-### 製作的藝術
+### The Art of Crafting
 
-製作物品需要在特定的「工作站」進行。當您與工作站互動時，介面會清晰地顯示：
+Crafting items requires specific "workstations." When you interact with a workstation, the interface clearly displays:
 
-- **左側**：您已解鎖的、可在此工作站製作的物品配方列表。
-- **中間**：您所選物品的詳細資訊，包括所需的專業等級、工具、以及製作所需的「勞力 (Effort)」。
-- **右側**：製作該物品所需的材料清單。
+- **Left Side**: A list of recipes you have unlocked that can be crafted at this station.
+- **Middle**: Detailed information about the selected item, including the required profession level, tools, and the "Effort" needed to craft it.
+- **Right Side**: A list of materials required to craft the item.
 
-工作站分為兩類：「主動式」和「被動式」。主動式工作站需要您在旁操作，但會提供專業經驗值；而被動式工作站（如熔爐 Smelter）則可以在您離開後繼續運作，但完成時不會提供經驗值。
+Workstations are divided into two types: "active" and "passive." Active workstations require you to be present and operating them but provide profession experience. Passive workstations (like a Smelter) can continue to operate after you leave but do not grant experience upon completion.
 
-### 建造您的世界
+### Building Your World
 
-與某些沙盒遊戲不同，BitCraft 的建築是採用「預製件 (Prefabs)」模式，而非逐塊建造。建築物主要分為幾類：工作站、儲存設施、特殊建築（如井、傳送石）以及住房（如帳篷、木屋）。一個重要的便利之處在於，只要建築物位於您所宣告的土地範圍內，一旦建造完成，就可以隨時自由地重新部署位置，無需拆毀重建。
+Unlike some sandbox games, building in BitCraft uses a "prefab" system rather than block-by-block construction. Buildings are mainly categorized as workstations, storage facilities, special structures (like wells and waystones), and housing (like tents and cabins). A significant convenience is that as long as a building is within your claimed land, it can be freely repositioned at any time after construction without needing to be demolished and rebuilt.
 
-### 理解生產鏈
+### Understanding Production Chains
 
-BitCraft 的製作系統並非簡單的「一對一」轉換，而是建立在複雜的「生產鏈」之上。理解並優化這些鏈條是提升效率的關鍵。以遊戲中的農業為例，一個完整的循環是：採集野生種子 -> 在農業工作站製作肥料 -> 在農田種植作物 -> 收穫後再送回農業工作站提取新的種子與纖維。
+BitCraft's crafting system is not a simple one-to-one conversion but is built on complex "production chains." Understanding and optimizing these chains is key to improving efficiency. Take farming, for example: a complete cycle is gathering wild seeds -> making fertilizer at a farming station -> planting crops in a field -> harvesting and then returning to the farming station to extract new seeds and fibers.
 
-這個微型循環揭示了遊戲的底層邏輯：任何高級物品的誕生都可能需要多個步驟、不同的工作站以及來自不同專業的中間材料。因此，您需要學會以「供應鏈」的思維來進行規劃，思考「製作這件物品的完整流程是什麼？哪些部分我可以自己完成，哪些部分透過交易獲取會更有效率？」
+This micro-cycle reveals the game's underlying logic: the creation of any advanced item may require multiple steps, different workstations, and intermediate materials from various professions. Therefore, you need to learn to think in terms of a "supply chain," considering, "What is the full process to make this item? Which parts can I do myself, and which would be more efficient to acquire through trade?"

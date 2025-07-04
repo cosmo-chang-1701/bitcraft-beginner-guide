@@ -1,28 +1,28 @@
-# 第三章：百科全書 (Compendium)：您最強大的工具
+# Chapter 3: The Compendium: Your Most Powerful Tool
 
-如果說手推車是您體力的延伸，那麼「百科全書」就是您在遊戲中的大腦。精通這個系統，是從新手邁向專家的第一步。
+If the Cart is an extension of your physical strength, then the "Compendium" is your in-game brain. Mastering this system is the first step from being a novice to becoming an expert.
 
-### 存取與導覽
+### Access and Navigation
 
-您可以隨時按下 `C` 鍵，或按住 `Alt` 鍵並左鍵點擊一件物品，來快速打開百科全書。它主要分為七大區塊：物品 (Items)、貨物 (Cargo)、生物 (Creatures)、資源 (Resources)、建築 (Structures)、收藏 (Collection) 和知識 (Knowledge)。
+You can open the Compendium at any time by pressing the `C` key, or by holding `Alt` and left-clicking on an item. It is primarily divided into seven sections: Items, Cargo, Creatures, Resources, Structures, Collection, and Knowledge.
 
-### 配方解鎖循環
+### The Recipe Unlock Cycle
 
-百科全書是 BitCraft 自我導向探索設計理念的核心。它取代了傳統的任務日誌，鼓勵玩家透過與世界互動來學習。您的目標應該是「填滿百科全書」，這將驅動您進行有目的的探索與實驗。
+The Compendium is at the core of BitCraft's self-directed exploration philosophy. It replaces a traditional quest log, encouraging players to learn by interacting with the world. Your goal should be to "fill the Compendium," which will drive you to explore and experiment purposefully.
 
 {% hint style="info" %}
-**核心學習循環**：
+**The Core Learning Loop**:
 
-1.  **發現新事物**：當您採集或製作出一種新物品時，如果它能解鎖其他配方，它的圖示旁會出現一個黃色的問號 `?`。
-2.  **學習配方**：將這些帶有問號的物品移動到您個人的物品欄中，相關的新配方就會自動解鎖並記錄在百科全書裡。
-3.  **形成回饋**：這個過程創造了一個正向循環：探索以尋找新材料 -> 採集它們 -> 在百科全書中解鎖新配方 -> 製作新物品 -> 進而可能解鎖更多配方。
+1.  **Discover New Things**: When you gather or craft a new item, if it can unlock other recipes, a yellow question mark `?` will appear next to its icon.
+2.  **Learn the Recipe**: Move these items with a question mark into your personal inventory, and the new related recipes will be automatically unlocked and recorded in the Compendium.
+3.  **Form a Feedback Loop**: This process creates a positive cycle: explore to find new materials -> gather them -> unlock new recipes in the Compendium -> craft new items -> which may in turn unlock more recipes.
     {% endhint %}
 
-### 策略性地使用百科全書
+### Using the Compendium Strategically
 
-- **追蹤資源**：這是最實用的功能之一。在百科全書中選擇一樣您想尋找的資源（例如：特定的礦石或樹木），點擊「追蹤 (Track)」按鈕。遊戲便會在您的地圖和視野中高亮顯示附近的同類資源節點，極大地提升了採集效率。
-- **逆向工程生產鏈**：查看任何物品時，百科全書都會提供三個關鍵分頁：「資訊 (Info)」、「獲取 (Obtain)」和「用途 (Use)」。
-  - **獲取 (Obtain)** 分頁會詳細列出製作或採集該物品所需的一切條件，包括工具、專業等級和材料。
-  - **用途 (Use)** 分頁則會顯示所有已知的、使用該物品作為材料的配方。
+- **Tracking Resources**: This is one of the most useful features. Select a resource you want to find in the Compendium (e.g., a specific ore or tree) and click the "Track" button. The game will then highlight nearby resource nodes of the same type on your map and in your field of view, greatly increasing your gathering efficiency.
+- **Reverse-Engineering Production Chains**: When viewing any item, the Compendium provides three key tabs: "Info," "Obtain," and "Use."
+  - The **Obtain** tab details everything required to craft or gather the item, including tools, profession levels, and materials.
+  - The **Use** tab shows all known recipes that use the item as a material.
 
-透過這兩個分頁，您可以輕鬆地逆向分析任何複雜物品的生產鏈，從而規劃您的生產與貿易策略。
+By using these two tabs, you can easily reverse-engineer the production chain of any complex item, allowing you to plan your production and trade strategies.

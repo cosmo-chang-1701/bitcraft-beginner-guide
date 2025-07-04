@@ -1,66 +1,66 @@
-# BitCraft 新手冒險指南
+# Beginner's Adventure Guide
 
-#### BitCraft 新手冒險指南 - GitBook 專案
+#### BitCraft Beginner's Adventure Guide - A GitBook Project
 
-歡迎來到 BitCraft 新手冒險指南的非官方 Git 儲存庫！這是一個開源、社群驅動的專案，旨在為所有 BitCraft 的開拓者，無論是剛從星殞之地甦醒的新手，還是經驗豐富的聚落市長，提供一份最全面、最即時的參考資料。
+Welcome to the unofficial Git repository for the BitCraft Beginner's Adventure Guide! This is an open-source, community-driven project aimed at providing the most comprehensive and up-to-date reference for all pioneers of BitCraft, from newcomers just awakening in the Starfall Steppe to seasoned settlement mayors.
 <br>
-本指南目前提供中文與英文兩種語言版本。
+This guide is currently available in both Chinese and English.
 
-**關於本指南**
+**About This Guide**
 <br>
-BitCraft 是一款深度與廣度兼具的社群沙盒遊戲，其核心在於「協力重建文明」。我們的目標是建立一份與遊戲精神相符的指南：一份活的、不斷演進的文件，由整個社群共同塑造與維護。
+BitCraft is a community sandbox game of immense depth and breadth, with its core centered on "cooperatively rebuilding civilization." Our goal is to create a guide that aligns with the spirit of the game: a living, constantly evolving document shaped and maintained by the entire community.
 <br>
-這份指南不僅僅是資料的堆砌，我們更專注於：
+This guide is more than just a compilation of data; we focus on:
 
-- **清晰的結構**：將複雜的遊戲機制拆解成易於理解的章節。
-- **策略性建議**：提供實用的技巧與策略，幫助您避開常見陷阱。
-- **即時更新**：隨著遊戲的更新，持續修正與擴充內容。
+- **Clear Structure**: Breaking down complex game mechanics into easy-to-understand chapters.
+- **Strategic Advice**: Offering practical tips and strategies to help you avoid common pitfalls.
+- **Timely Updates**: Continuously correcting and expanding content as the game updates.
 
-**特色內容 (目錄)**
+**Featured Content (Table of Contents)**
 <br>
-本指南涵蓋了您在 BitCraft 世界中冒險所需知道的一切：
+This guide covers everything you need to know for your adventure in the world of BitCraft:
 
-- **第一章：理解 BitCraft 的世界** - 深入了解遊戲的核心哲學與獨特之處。
-- **第二章：您的第一步** - 從帳號創建到首日求生的完整流程。
-- **第三章：百科全書** - 精通您在遊戲中最強大的工具。
-- **第四章：專業與技能** - 規劃您的角色發展路線。
-- **第五章：創造的循環** - 深入解析採集、製作與建造。
-- **第六章：社會的結構** - 探索經濟、聚落與帝國的奧秘。
-- **第七章：進階策略與陷阱** - 提升效率的技巧與常見錯誤規避。
-- **第八章：必備資源與社群中心** - 包含快捷鍵與所有重要的社群連結。
+- **Chapter 1: Understanding the World of BitCraft** - A deep dive into the game's core philosophy and unique features.
+- **Chapter 2: Your First Steps** - The complete process from account creation to surviving your first day.
+- **Chapter 3: The Encyclopedia** - Mastering the most powerful tool at your disposal in the game.
+- **Chapter 4: Professions and Skills** - Planning your character's development path.
+- **Chapter 5: The Cycle of Creation** - An in-depth analysis of gathering, crafting, and building.
+- **Chapter 6: The Structure of Society** - Exploring the mysteries of economy, settlements, and empires.
+- **Chapter 7: Advanced Strategies and Pitfalls** - Techniques for improving efficiency and avoiding common mistakes.
+- **Chapter 8: Essential Resources & Community Hubs** - Includes hotkeys and all important community links.
 
-**如何使用**
+**How to Use**
 <br>
-您可以透過以下幾種方式來閱讀本指南：
+You can read this guide in several ways:
 
-- **線上閱讀 (推薦)**：前往我們發布的 [GitBook 網站](https://example.com) 進行最舒適的線上閱讀。 _(請替換為實際的 GitBook 連結)_
-- **本地預覽**：如果您已將此儲存庫複製到本地，可以使用任何支援 Markdown 的編輯器（如 VS Code）來閱讀各個檔案。
+- **Read Online (Recommended)**: Visit our published [GitBook site](https://example.com) for the most comfortable online reading experience. _(Please replace with the actual GitBook link)_
+- **Local Preview**: If you've cloned this repository locally, you can use any Markdown-supported editor (like VS Code) to read the individual files.
 
-**如何貢獻**
+**How to Contribute**
 <br>
-我們堅信社群的力量！如果您發現任何錯誤、過時的資訊，或是有新的技巧想要分享，我們都非常歡迎您的貢獻。
+We firmly believe in the power of the community! If you find any errors, outdated information, or have new tips to share, we warmly welcome your contributions.
 <br>
-貢獻流程如下：
+The contribution process is as follows:
 
-1.  `Fork` 此儲存庫。
-2.  建立一個新的分支 (`git checkout -b feature/YourAmazingFeature`)。
-3.  在您的分支上進行修改。
-4.  提交您的變更 (`git commit -m 'Add some AmazingFeature'`)。
-5.  將您的分支推送到 GitHub (`git push origin feature/YourAmazingFeature`)。
-6.  開啟一個 `Pull Request`，並詳細說明您的修改內容。
+1.  `Fork` this repository.
+2.  Create a new branch (`git checkout -b feature/YourAmazingFeature`).
+3.  Make your changes on your branch.
+4.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+5.  Push your branch to GitHub (`git push origin feature/YourAmazingFeature`).
+6.  Open a `Pull Request` and describe your changes in detail.
 
-**社群就是力量**
+**Community is Power**
 <br>
-BitCraft 是一款極度重視社群的遊戲，您的聲音對遊戲的未來至關重要。在搶先體驗階段，加入社群是獲取最新資訊、補丁說明和遊戲攻略的最佳途徑。
+BitCraft is a game that highly values its community, and your voice is crucial to its future. During the Early Access phase, joining the community is the best way to get the latest information, patch notes, and game guides.
 
-- **官方網站**: <https://bitcraftonline.com>
-- **官方 Discord**: <https://discord.gg/bitcraft>
-- **官方 Reddit**: <https://www.reddit.com/r/BitCraftOnline/>
-- **官方 X (Twitter)**: <https://x.com/BitCraftOnline>
-- **非官方 Wiki**: <https://bitcraft.wiki.gg>
+- **Official Website**: <https://bitcraftonline.com>
+- **Official Discord**: <https://discord.gg/bitcraft>
+- **Official Reddit**: <https://www.reddit.com/r/BitCraftOnline/>
+- **Official X (Twitter)**: <https://x.com/BitCraftOnline>
+- **Unofficial Wiki**: <https://bitcraft.wiki.gg>
 
-**授權**
+**License**
 <br>
-本專案採用 [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) 進行授權。
+This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 <br>
-願這份指南能照亮您在星殞之地的冒險之路。記住，您的每一個選擇，每一次創造，都在塑造這個世界的未來。祝您旅途愉快，開拓者！
+May this guide light your path on the Starfall Steppe. Remember, every choice you make, every creation you forge, shapes the future of this world. Happy trails, pioneer!

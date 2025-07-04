@@ -1,30 +1,30 @@
-# 第一章：歡迎來到荒野：理解 BitCraft 的世界
+# Chapter 1: Welcome to the Wilderness: Understanding the World of BitCraft
 
-在踏上旅程之前，最重要的一步是理解 BitCraft 的核心哲學。
+Before embarking on your journey, the most crucial step is to understand BitCraft's core philosophy.
 
 {% hint style="info" %}
-**核心理念**：BitCraft 是一款「大型多人社群沙盒遊戲」，其最終目標是讓所有玩家「協力重建文明」。遊戲鼓勵的是如農耕、貿易、狩獵、建造城市與社交策略等多樣化的遊玩風格，而非單純的打怪升級。
+**Core Philosophy**: BitCraft is a "Massively Multiplayer Community Sandbox Game" where the ultimate goal is for all players to "rebuild civilization together." The game encourages diverse playstyles such as farming, trading, hunting, city-building, and social strategy, rather than simple combat grinding.
 {% endhint %}
 
-### BitCraft 的遊戲哲學
+### The Game Philosophy of BitCraft
 
-BitCraft 的世界是一個單一、巨大且無分片的荒野，所有玩家都在同一個伺服器上互動。您所做的每一件事，從砍下一棵樹到鋪設一條路，都會對這個世界產生「永久性的改變」。這意味著您的行為不僅僅是為了個人生存，更是在為這個世界的歷史寫下新的一頁。
+The world of BitCraft is a single, massive, and seamless wilderness where all players interact on the same server. Everything you do, from cutting down a tree to laying a road, makes a "permanent change" to this world. This means your actions are not just for personal survival but are writing a new page in the history of this world.
 
-這種設計理念將遊戲的核心從單純的「玩家對抗環境」提升到了「社會對抗混沌」的層次。遊戲的真正深度在於觀察玩家社群如何自發地組織起來，建立經濟體系、社會結構，並最終形成橫跨大陸與海洋的帝國。因此，與其將它視為「更多人的 Minecraft」，不如將其理解為一個持續演進的、由玩家驅動的文明模擬器，而生存與製作，則是實現這個宏大目標的基礎手段。
+This design philosophy elevates the game's core from a simple "player versus environment" to a "society versus chaos" level. The true depth of the game lies in observing how the player community spontaneously organizes, establishes economic systems, social structures, and ultimately forms empires that span continents and oceans. Therefore, rather than seeing it as "Minecraft with more people," it's better understood as a continuously evolving, player-driven civilization simulator, where survival and crafting are the fundamental means to achieve this grand goal.
 
-### 這是一款什麼樣的遊戲？
+### What Kind of Game Is This?
 
-BitCraft 巧妙地融合了多種遊戲類型，創造出獨特的體驗：
+BitCraft skillfully blends multiple game genres to create a unique experience:
 
-- **生存遊戲**：您將以一無所有的狀態甦醒，需要採集資源、建造庇護所來求生。
-- **沙盒遊戲**：整個世界都是可編輯的，您可以自由地塑造地貌、發展角色，不受固定職業的限制。
-- **角色扮演遊戲 (RPG)**：遊戲擁有一個深度的技能系統，您的角色會透過「實踐」來精通特定技能，而非點數分配。
-- **城市建造與策略遊戲**：您可以與他人合作，從一個小村莊開始，逐步發展成繁榮的城市，甚至建立龐大的帝國。
+- **Survival Game**: You will awaken with nothing and need to gather resources and build shelter to survive.
+- **Sandbox Game**: The entire world is editable, allowing you to freely shape the landscape and develop your character without being bound by fixed classes.
+- **Role-Playing Game (RPG)**: The game features a deep skill system where your character masters specific skills through "practice" rather than point allocation.
+- **City-Building and Strategy Game**: You can cooperate with others to grow from a small village into a prosperous city, and even establish a vast empire.
 
-### 搶先體驗 (Early Access) 的旅程
+### The Early Access Journey
 
 {% hint style="warning" %}
-**搶先體驗須知**：目前，BitCraft 處於「搶先體驗」階段。這意味著遊戲內容仍在不斷增加與完善，開發團隊將根據玩家的回饋來調整遊戲。在此期間，為了平衡與系統調整，可能會進行偶爾的伺服器資料清除（Wipes）。
+**Early Access Notice**: BitCraft is currently in "Early Access." This means the game content is still being added to and refined, and the development team will adjust the game based on player feedback. During this period, occasional server wipes may occur for balance and system adjustments.
 {% endhint %}
 
-開發團隊 Clockwork Labs 對社群抱持著極大的開放態度，甚至計畫在未來將遊戲的程式碼開源。這再次印證了遊戲的核心精神：這是一個由所有玩家共同塑造與擁有的世界。
+The development team, Clockwork Labs, maintains great openness with the community and even plans to open-source the game's code in the future. This reaffirms the core spirit of the game: it is a world shaped and owned by all its players.

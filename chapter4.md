@@ -1,47 +1,47 @@
-# 第四章：進程的支柱：精通專業與技能
+# Chapter 4: The Pillars of Progression: Mastering Professions and Skills
 
-BitCraft 的角色進程系統分為「專業 (Professions)」與「技能 (Skills)」兩大體系。理解它們的區別與相互關係，是規劃您發展路線的關鍵。
+BitCraft's character progression system is divided into two main categories: "Professions" and "Skills." Understanding their differences and interrelations is key to planning your development path.
 
-### 專業 vs. 技能：有何不同？
+### Professions vs. Skills: What's the Difference?
 
-- **專業 (Professions)**：共 12 種，是遊戲中的主要經濟活動，專注於資源的採集、創造與精煉。它們是聚落發展與物品生產的基礎。提升專業等級的方式是親自執行相關動作，例如砍樹能提升「林業」經驗。
-- **技能 (Skills)**：共 6 種，是所有玩家都會接觸到的廣泛活動，例如建造、烹飪和殺戮。提升技能經驗的其中一個高效方法是完成「旅人 (Travelers)」提供的任務。
+- **Professions**: There are 12 in total. They are the main economic activities in the game, focusing on the gathering, creation, and refinement of resources. They are the foundation of settlement development and item production. You level up professions by performing the relevant actions, such as chopping trees to gain "Forestry" experience.
+- **Skills**: There are 6 in total. These are broad activities that all players will engage in, such as construction, cooking, and slaying. One of the most efficient ways to gain skill experience is by completing quests offered by "Travelers."
 
-### 專業與技能一覽
+### Professions and Skills at a Glance
 
-為了幫助您快速選擇發展方向，以下整理了遊戲中的專業與技能：
+To help you quickly choose a development path, here is a summary of the game's professions and skills:
 
-**專業 (Professions)**
+**Professions**
 
-| 專業 (Professions)            | 分類      | 核心功能                       | 關聯工具        |
-| :---------------------------- | :-------- | :----------------------------- | :-------------- |
-| **林業 (Forestry)**           | 採集/製造 | 砍伐樹木、種植樹苗、製作木炭   | 斧頭 (Axes)     |
-| **採礦 (Mining)**             | 採集      | 開採礦石、寶石、勘探礦脈       | 鎬 (Pickaxes)   |
-| **採集 (Foraging)**           | 採集      | 尋找蘑菇、野生纖維、花朵       | 砍刀 (Machetes) |
-| **狩獵 (Hunting)**            | 採集      | 捕捉與收穫動物                 | 弓 (Bows)       |
-| **釣魚 (Fishing)**            | 採集/製造 | 製作魚餌、捕魚、加工魚類       | 釣竿 (Rods)     |
-| **耕作 (Farming)**            | 採集/製造 | 種植作物、收穫、製作肥料       | 鋤頭 (Hoes)     |
-| **木工 (Carpentry)**          | 製造      | 將原木加工成木板、橫樑等木製品 | 鋸子 (Saws)     |
-| **石工 (Masonry)**            | 製造      | 加工石頭、塑造黏土、切割寶石   | 鑿子 (Chisels)  |
-| **鍛造 (Smithing)**           | 製造      | 冶煉礦石、鍛造金屬錠與產品     | 錘子 (Hammers)  |
-| **皮革加工 (Leatherworking)** | 製造      | 鞣製獸皮成皮革、製作皮革製品   | 刀 (Knives)     |
-| **裁縫 (Tailoring)**          | 製造      | 加工纖維成布料、製作衣物       | 剪刀 (Scissors) |
-| **學者 (Scholar)**            | 採集/製造 | 研究古代遺跡、精煉高等材料     | 羽毛筆 (Quills) |
+| Profession         | Category           | Core Function                                          | Associated Tool |
+| :----------------- | :----------------- | :----------------------------------------------------- | :-------------- |
+| **Forestry**       | Gathering/Crafting | Felling trees, planting saplings, making charcoal      | Axes            |
+| **Mining**         | Gathering          | Mining ores, gems, prospecting for veins               | Pickaxes        |
+| **Foraging**       | Gathering          | Finding mushrooms, wild fibers, flowers                | Machetes        |
+| **Hunting**        | Gathering          | Capturing and harvesting animals                       | Bows            |
+| **Fishing**        | Gathering/Crafting | Making bait, catching fish, processing fish            | Rods            |
+| **Farming**        | Gathering/Crafting | Growing crops, harvesting, making fertilizer           | Hoes            |
+| **Carpentry**      | Crafting           | Processing logs into planks, beams, etc.               | Saws            |
+| **Masonry**        | Crafting           | Processing stone, shaping clay, cutting gems           | Chisels         |
+| **Smithing**       | Crafting           | Smelting ores, forging metal ingots and products       | Hammers         |
+| **Leatherworking** | Crafting           | Tanning hides into leather, making leather goods       | Knives          |
+| **Tailoring**      | Crafting           | Processing fibers into cloth, making clothes           | Scissors        |
+| **Scholar**        | Gathering/Crafting | Researching ancient ruins, refining advanced materials | Quills          |
 
-**技能 (Skills)**
+**Skills**
 
-| 技能 (Skills)           | 核心功能                 | 主要提升方式               |
-| :---------------------- | :----------------------- | :------------------------- |
-| **建造 (Construction)** | 建造房屋與其他建築       | 進行建造活動               |
-| **烹飪 (Cooking)**      | 製作食物以滿足飢餓需求   | 進行烹飪活動、完成旅人任務 |
-| **殺戮 (Slayer)**       | 擊殺怪物                 | 擊殺怪物、完成旅人任務     |
-| **馴服 (Taming)**       | 與動物成為朋友並加以利用 | 進行馴服活動、完成旅人任務 |
-| **商業 (Merchanting)**  | 在商店中出售商品         | 進行交易活動、完成旅人任務 |
-| **航海 (Sailing)**      | 探索海洋世界             | 進行航海活動               |
+| Skill            | Core Function                        | Main Way to Level Up                           |
+| :--------------- | :----------------------------------- | :--------------------------------------------- |
+| **Construction** | Building houses and other structures | Engaging in construction activities            |
+| **Cooking**      | Making food to satisfy hunger        | Cooking, completing Traveler quests            |
+| **Slayer**       | Killing monsters                     | Killing monsters, completing Traveler quests   |
+| **Taming**       | Befriending and utilizing animals    | Taming activities, completing Traveler quests  |
+| **Merchanting**  | Selling goods in shops               | Trading activities, completing Traveler quests |
+| **Sailing**      | Exploring the ocean world            | Sailing activities                             |
 
-### 策略性專業分工
+### Strategic Specialization
 
-BitCraft 的專業系統被刻意設計成讓單一玩家難以精通所有領域。高等級的製作往往需要來自多個專業的材料，這使得專業分工與貿易成為高效發展的必然選擇，而非可選項目。
+BitCraft's profession system is intentionally designed to make it difficult for a single player to master all fields. High-level crafting often requires materials from multiple professions, making specialization and trade a necessity for efficient development, not an option.
 
-- **單人玩家**：建議專注於一對相互關聯的採集與製造專業，例如「林業」與「木工」，或「採礦」與「鍛造」。這能讓您在特定產品線上達成自給自足。
-- **團隊玩家**：強烈建議團隊成員選擇不同的、互補的專業。例如，一人專精採礦與鍛造，一人專精林業與木工，另一人專精狩獵與皮革加工。這樣的組合可以高效地生產出複雜的成品，並透過內部交易來滿足彼此的需求，這也是遊戲設計的核心理念之一。
+- **Solo Players**: It is recommended to focus on a pair of related gathering and crafting professions, such as "Forestry" and "Carpentry," or "Mining" and "Smithing." This allows you to become self-sufficient in a specific product line.
+- **Team Players**: It is highly recommended that team members choose different, complementary professions. For example, one person specializes in mining and smithing, another in forestry and carpentry, and a third in hunting and leatherworking. Such a combination can efficiently produce complex finished goods and meet each other's needs through internal trade, which is one of the core concepts of the game's design.

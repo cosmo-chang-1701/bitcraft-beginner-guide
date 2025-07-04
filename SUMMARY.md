@@ -1,11 +1,11 @@
-# 目錄
+# Table of Contents
 
-- [簡介](README.md)
-- [第一章：理解 BitCraft 的世界](chapter1.md)
-- [第二章：您的第一步](chapter2.md)
-- [第三章：百科全書](chapter3.md)
-- [第四章：專業與技能](chapter4.md)
-- [第五章：創造的循環](chapter5.md)
-- [第六章：社會的結構](chapter6.md)
-- [第七章：進階策略與陷阱](chapter7.md)
-- [第八章：必備資源](chapter8.md)
+- [Introduction](README.md)
+- [Chapter 1: Understanding the World of BitCraft](chapter1.md)
+- [Chapter 2: Your First Steps](chapter2.md)
+- [Chapter 3: The Compendium](chapter3.md)
+- [Chapter 4: Professions and Skills](chapter4.md)
+- [Chapter 5: The Cycle of Creation](chapter5.md)
+- [Chapter 6: The Social Structure](chapter6.md)
+- [Chapter 7: Advanced Strategies and Pitfalls](chapter7.md)
+- [Chapter 8: Essential Resources](chapter8.md)

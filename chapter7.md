@@ -1,27 +1,27 @@
-# 第七章：進階策略與常見陷阱
+# Chapter 7: Advanced Strategies and Common Pitfalls
 
-本章節將提供一些實用的技巧，幫助您更有效率地遊玩，並避開新手常犯的錯誤。
+This chapter provides practical tips to help you play more efficiently and avoid common mistakes made by new players.
 
-### 效率提升技巧
+### Efficiency-Boosting Tips
 
 {% hint style="success" %}
 
-- **手推車為王**：再次強調，盡快完成教學任務以獲得手推車。遊戲中有一些重型物品被歸類為「貨物 (Cargo)」，您的背包一次只能攜帶一件。而手推車最多可以裝載 10 件貨物，是進行大規模採集時不可或缺的工具。
-- **精通傳送**：使用傳送石進行旅行會消耗「傳送能量」，且消耗量會隨著您背包中物品的數量而增加。因此，在外出探索時應盡量輕裝上陣。利用「回家」傳送的低消耗特性，將其作為滿載而歸的主要方式。請注意，手推車等已部署的物品不會跟您一起傳送。
-- **利用本地儲存**：任何放置在工作站附近的儲存容器（例如您的手推車）中的材料，都可以在製作時直接取用，這能為您省下大量整理物品的時間。
-- **透過旅人任務練級**：在遊戲初期，完成旅人任務是獲取技能經驗和穩定赫賽幣收入最有效率的方式。
+- **The Cart is King**: To reiterate, complete the tutorial quests as soon as possible to get the cart. Some heavy items in the game are classified as "Cargo," and your backpack can only carry one at a time. The cart, however, can carry up to 10 cargo items, making it an indispensable tool for large-scale gathering.
+- **Master Teleportation**: Traveling via waystones consumes "teleport energy," and the cost increases with the number of items in your backpack. Therefore, travel as lightly as possible when exploring. Use the low cost of the "Return Home" teleport as your primary means of returning fully loaded. Note that deployed items like carts will not teleport with you.
+- **Utilize Local Storage**: Materials in any storage container placed near a workstation (such as your cart) can be used directly during crafting, saving you a significant amount of time organizing items.
+- **Level Up with Traveler Quests**: In the early game, completing Traveler quests is the most efficient way to gain skill experience and a steady income of Hex Coins.
   {% endhint %}
 
-### 常見錯誤規避
+### Common Mistakes to Avoid
 
 {% hint style="danger" %}
 
-- **忽視廢棄小鎮**：不要試圖從一開始就獨自挑戰荒野。充分利用廢棄小鎮的免費公共設施來站穩腳跟。
-- **囤積問號物品**：不要讓帶有黃色問號的物品靜靜地躺在您的倉庫裡。立即將它們放入個人物品欄以解鎖新配方。
-- **無效的旅行**：不要背著滿滿的行囊到處傳送，這會迅速耗盡您的能量。學會規劃您的物流路線。
-- **試圖精通一切**：不要試圖同時提升全部 12 種專業。在初期專注於一到兩個，以便更快地達到更高階級，並依靠市場來獲取其他您需要的物品。
+- **Ignoring Ruined Towns**: Don't try to go it alone in the wilderness from the start. Make full use of the free public facilities in the ruined towns to get on your feet.
+- **Hoarding "Question Mark" Items**: Don't let items with a yellow question mark sit in your storage. Immediately move them to your personal inventory to unlock new recipes.
+- **Inefficient Travel**: Don't teleport around with a full inventory; it will quickly drain your energy. Learn to plan your logistics routes.
+- **Trying to Master Everything**: Don't try to level up all 12 professions at once. Focus on one or two in the beginning to reach higher tiers faster, and rely on the market to acquire other items you need.
   {% endhint %}
 
-### 關於戰鬥 (PvE) 的說明
+### A Note on Combat (PvE)
 
-雖然 BitCraft 的核心並非戰鬥，但為了馴服這片危險的荒野，戰鬥依然是不可或缺的一環。您會遇到守護著珍稀資源的怪物，或是威脅您聚落安全的野獸。遊戲中有一項名為「殺戮 (Slayer)」的技能與戰鬥直接相關。開發團隊也計畫在未來加入更多 PvE 內容，例如小型地城和更具挑戰性的敵人，來豐富戰鬥體驗。
+While combat is not the core of BitCraft, it is still an essential part of taming the dangerous wilderness. You will encounter monsters guarding rare resources or beasts threatening your settlement's safety. There is a skill called "Slayer" directly related to combat. The development team also plans to add more PvE content in the future, such as small dungeons and more challenging enemies, to enrich the combat experience.
