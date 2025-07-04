@@ -33,7 +33,7 @@ This guide covers everything you need to know for your adventure in the world of
 <br>
 You can read this guide in several ways:
 
-- **Read Online (Recommended)**: Visit our published [GitBook site](https://semantic-cosmos.gitbook.io/bitcraft-beginners-adventure-guide/) for the most comfortable online reading experience. _(Please replace with the actual GitBook link)_
+- **Read Online (Recommended)**: Visit our published [GitBook site](https://semantic-cosmos.gitbook.io/bitcraft-beginners-adventure-guide/) for the most comfortable online reading experience.
 - **Local Preview**: If you've cloned this repository locally, you can use any Markdown-supported editor (like VS Code) to read the individual files.
 
 **How to Contribute**
