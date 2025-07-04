@@ -33,7 +33,7 @@ This guide covers everything you need to know for your adventure in the world of
 <br>
 You can read this guide in several ways:
 
-- **Read Online (Recommended)**: Visit our published [GitBook site](https://example.com) for the most comfortable online reading experience. _(Please replace with the actual GitBook link)_
+- **Read Online (Recommended)**: Visit our published [GitBook site](https://semantic-cosmos.gitbook.io/bitcraft-beginners-adventure-guide/) for the most comfortable online reading experience. _(Please replace with the actual GitBook link)_
 - **Local Preview**: If you've cloned this repository locally, you can use any Markdown-supported editor (like VS Code) to read the individual files.
 
 **How to Contribute**
@@ -42,7 +42,7 @@ We firmly believe in the power of the community! If you find any errors, outdate
 <br>
 The contribution process is as follows:
 
-1.  `Fork` this repository.
+1.  `Fork` [this repository](https://github.com/cosmo-chang-1701/bitcraft-beginner-guide).
 2.  Create a new branch (`git checkout -b feature/YourAmazingFeature`).
 3.  Make your changes on your branch.
 4.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
